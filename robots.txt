@@ -1,1 +1,0 @@
-Sitemap: https://galena.es/jekyll-theme-yat/sitemap.xml
